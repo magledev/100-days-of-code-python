@@ -1,0 +1,14 @@
+{
+    "Facebook": {
+"email": "<email_address>",
+        "password": "<password>"
+    },
+    "Amazon": {
+"email": "<email_address>",
+        "password": "<password>"
+    },
+    "Microsoft": {
+"email": "<email_address>",
+        "password": "<password>"
+    }
+}
